@@ -1,2 +1,2 @@
 # Welcome to "Mom's Pot," a delightful web application developed by SKYREK Digital Solutions using the powerful MERN Stack.
-![alt text](/Thumbnails.png)
+![alt text](/MomsPot.png)
